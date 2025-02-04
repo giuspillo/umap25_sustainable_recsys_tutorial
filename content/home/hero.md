@@ -7,10 +7,10 @@ title: ACM Europe School on Recommender Systems 2024
 hero_media: 
 cta:
   label: #'**Read more**'
-  url: #http://acmrecsys.github.io/rsss2024
+  url: #http://giuspillo.github.io/umap25_sustainable_recsys_tutorial
 cta_alt:
   label: 
-  url: /rsss2024
+  url: /umap25_sustainable_recsys_tutorial
 cta_note:
   label: 
 design:
