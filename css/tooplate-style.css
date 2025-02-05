@@ -823,3 +823,15 @@ http://www.tooplate.com/view/2106-soft-landing
       height: 65vh;
     }
   }
+
+
+  .tab-pane-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px; /* Adjust spacing */
+  }
+
+.tab-pane {
+    display: flex;
+    flex-direction: column;
+  }
